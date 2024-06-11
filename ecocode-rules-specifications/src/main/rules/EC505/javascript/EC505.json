@@ -1,13 +1,13 @@
 {
-    "tags": [
-      "sobriety",
-      "environment",
-      "ecocode",
-      "react-native",
-      "eco-design"
-    ],
-    "compatibleLanguages": [
-      "JAVASCRIPT",
-      "TYPESCRIPT"
-    ]
-  }
+  "tags": [
+    "idleness",
+    "environment",
+    "ecocode",
+    "react-native",
+    "eco-design"
+  ],
+  "compatibleLanguages": [
+    "JAVASCRIPT",
+    "TYPESCRIPT"
+  ]
+}

@@ -6,14 +6,6 @@
     "func": "Constant\/Issue",
     "constantCost": "20min"
   },
-  "tags": [
-    "idleness",
-    "environment",
-    "ecocode",
-    "android",
-    "ios",
-    "eco-design"
-  ],
   "ecoScore": "0.6",
   "defaultSeverity": "Major"
 }
